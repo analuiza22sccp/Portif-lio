@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 90px;
+
+}
+h1,h2{
+    margin: 20px;
+    color: aliceblue;
+}
+.botao{
+    display: inline-block;
+    margin: 20px 0;
+    padding: 10px 25px;
+    border: 1px solid #a83eff;
+    border-radius: 30px;
+    color: #fff;
+    text-decoration: none;
+}
+.intro-texto h1{
+    font-size: 48px;
+}
+.intro-foto{
+    width: 350px;
+   margin-left: 300px;
+}
+.intro-foto img{
+    width: 350px; 
+    height: 100%;
+
+}
+.habilidade{
+    padding: 50px 10%;
+    
+    display: inline-block;
+}
+#contato{
+    text-align: left;
+}
+.contatos{
+    display: inline-block;
+    padding-left: 150px;
+}
